@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning nodejs
+- 🌱 已回家种地
 
 <!--
 **DemoLiang/DemoLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
